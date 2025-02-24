@@ -1,11 +1,11 @@
 export default defineAppConfig({
-  title: 'Sink',
-  email: 'sink.cool@miantiao.me',
-  github: 'https://github.com/ccbikai/sink',
-  twitter: 'https://sink.cool/kai',
-  telegram: 'https://sink.cool/telegram',
-  mastodon: 'https://sink.cool/mastodon',
-  blog: 'https://sink.cool/blog',
+  title: '流泪小狗🐶',
+  email: '',
+  github: 'https://555.dog/github',
+  twitter: 'https://555.dog/x',
+  telegram: '',
+  mastodon: '',
+  blog: 'https://555.dog/me',
   description: 'A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.',
   image: 'https://sink.cool/banner.png',
   previewTTL: 24 * 3600, // 24h
